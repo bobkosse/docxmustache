@@ -1,5 +1,5 @@
 {
-    "name": "bizprove/docxmustache",
+    "name": "bizprove/bizprove-docxmustache",
     "description": "docx template manipulation class, based on mustache templating language",
     "keywords": ["laravel", "docx", "openxml", "template", "mustache", "php"],
     "require": {

@@ -16,6 +16,12 @@
         {
             "name": "Tobias Vielmetter-Diekmann",
             "email": "tobias@wrklst.art"
+        },
+        {
+            "name": "Bizprove Dev Team",
+            "email": "info@bizprove.nl",
+            "homepage": "https://bizprove.nl/",
+            "role": "Developer"
         }
     ],
     "autoload" : {
